@@ -1,0 +1,27 @@
+#h1{
+    background-color: rgb(173, 122, 122);
+    padding:  50px 10px;
+    height: 100px;
+    width: 25px;
+    display: inline-block;
+    font-size: 40px;
+    
+}
+*{
+    background-color: rgb(255, 255, 255);
+}
+.nav{
+    background-color: rgb(173, 122, 122);
+    text-align: right;   
+}
+.aboutlife{
+    width: 50%;
+    height: 50%;
+    padding: 5px 5px 5px 50px;
+    background-color: rgb(104, 154, 211);
+}
+a{
+    background-color: rgb(173, 122, 122);
+    font-weight: 300;
+    font-size: medium;
+}
